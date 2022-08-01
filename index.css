@@ -1,0 +1,242 @@
+.acessibility {
+    background-color: #DADADA;
+    height: 35px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.navegabilitybar {
+    height: 50px;
+}
+
+.btn-navbar {
+    height: 100%;
+    width: 100%;
+    padding: none !important;
+}
+
+.btn {
+    border: none;
+}
+
+.navItem {
+    padding: 0px !important;
+}
+
+.navItem:hover {
+    border: none !important;
+    color: white !important;
+    background-color: #4441DF !important;
+}
+
+.carousel {
+    background-color: #E7F6FC;
+    height: 450px;
+}
+
+.btn-highlights {
+    background-color: #F51051 !important;
+    color: white !important;
+    width: 80% !important;
+}
+
+.btn-highlights:hover {
+    background-color: #F51051;
+    color: white;
+    width: 80%;
+}
+
+.square {
+    width: 110px;
+    height: 110px;
+    margin: 0px 20px;
+    background-color: #4441DF
+}
+
+.item-sub-menu{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    justify-content: center;
+    color: black;
+}
+
+.square-red{
+    background-color: #F51051;
+}
+
+.item-sub-menu:hover{
+    background-color: #E7F6FC;
+}
+
+.text-sub-menu {
+    text-align: center;
+    font-size: large;
+}
+
+.sub-menu {
+    background: #FFFFFF;
+    height: 150px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.our-projects{
+    margin: 70px 0px;
+}
+
+.square-our-projects{
+    background-color: #4441DF;
+    color: white;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.rectangle-our-projects{
+    width: 100%;
+    height: 200px;
+    background-color: #E7F6FC;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-bottom: 45px;
+}
+
+.btn-our-projects{
+    width: 80%;
+    background-color: #F51051;
+    position: relative;
+    top: 15px;
+    border-radius: 0px;
+    color: white;
+    
+}
+
+.btn-our-projects:hover{
+    background-color: #4441DF;
+    color: white;
+}
+
+.card-our-projects{
+    margin-top: auto;
+}
+
+.our-numbers{
+    font-size: 30px;
+    text-align: center;
+    padding: 15px 0px;
+    background-color: #E7F6FC;
+    height: 200px;
+    margin-bottom: 45px;
+}
+.numbers-row{
+    display: flex;
+}
+
+.our-numbers-circle{
+    width: 100px;
+    height: 100px;
+    background-color: #F51051;
+    border-radius: 100%;
+    margin: auto;
+}
+
+.our-numbers-circle-blue{
+    background-color: #4441DF;
+}
+
+.our-team-rectangle{
+    text-align: center;
+    height: 150px;
+    background-color: #4441DF;
+    font-size: 30px;
+    color: white;
+    padding: 15px 0px;
+    margin-bottom: 300px;
+}
+
+.our-team-card{
+    background-color: #E7F6FC;
+    height: 320px;
+    margin: 0px 30px;
+    padding: 35px 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.our-team-photo{
+    border: black 3px solid;
+    height: 150px;
+    width: 60%;
+    margin: auto;
+    padding: 15px 0px;
+}
+
+.our-team-text{
+    text-align: left ;
+    margin-top: 40px !important;
+    color: black;
+    font-size: 15px;
+    width: 60%;
+    margin: auto;
+}
+
+.contact-us{
+    background-color: #E7F6FC;
+    font-size: 30px;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.contact-us-infos{
+    margin-top: 25px !important;
+    width: 80%;
+}
+
+.contact-us-text{
+    font-size: 15px;
+    text-align: left;
+}
+
+.contact-us-map{
+    height: 250px;
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.partiners{
+    text-align: center;
+    background-color: #F9F9F9;
+    height: 80px;
+    font-size: 30px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+    color: black !important;
+}
+
+.footer-square{
+    height: 300px;
+    background-color: #4441DF;
+}
+
+.footer-nav{
+    height: 80px;
+    font-size: 20px;
+    background-color:#E7F6FC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-nav-link{
+    text-decoration: none;
+    color: black;
+}
